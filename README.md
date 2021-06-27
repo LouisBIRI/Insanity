@@ -1,0 +1,2 @@
+# Insanity
+Flyff insanity hack
