@@ -1,4 +1,3 @@
-# Insanity
 <Settings>
 	<!-- 
 	Awake Type Explanation:
@@ -77,3 +76,4 @@
 	-->
 	<Setting name="OcrIgnoreWords">Blessing Options</Setting>
 </Settings>
+
